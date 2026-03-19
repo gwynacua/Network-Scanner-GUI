@@ -11,7 +11,7 @@ The project is simple and user-friendly, making it suitable for non-technical ho
 and aims to educate users about security risks within their home network.
 
 ------------------------------------------------------------------------------------------------
-                      THIS TOOL SHOULD ONLY BE USED ON AUTHORIZED NETWORKS.
+                          THIS TOOL SHOULD ONLY BE USED ON AUTHORIZED NETWORKS.
 ------------------------------------------------------------------------------------------------
 
 REQUIREMENTS
