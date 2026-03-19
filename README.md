@@ -10,6 +10,9 @@ discussion of the associated security risks, helping users understand potential 
 The project is simple and user-friendly, making it suitable for non-technical homeowners, 
 and aims to educate users about security risks within their home network.
 
+------------------------------------------------------------------------------------------------
+                      THIS TOOL SHOULD ONLY BE USED ON AUTHORIZED NETWORKS.
+------------------------------------------------------------------------------------------------
 
 REQUIREMENTS
 The following libraries, components and application need to install:
