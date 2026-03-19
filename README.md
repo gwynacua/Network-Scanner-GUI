@@ -3,7 +3,7 @@ Copyright © 2026, Gwyn Villegas
 
 This project is developed for learning and educational purposes only
 
-This project is a Python-based automated network scanner that integrates with Nmap and with GUI
+This project is a Python-based automated network scanner that integrates with Nmap and with GUI.
 The program scans a home network, including potential IoT devices, to identify connected 
 devices and their open ports. It flags preconfigured high-risk ports and provides a brief 
 discussion of the associated security risks, helping users understand potential vulnerabilities. 
