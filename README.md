@@ -1,15 +1,9 @@
 
 Copyright © 2026, Gwyn Villegas                                                                                                  
-System Management and Cybersecurity                                                                                              
-                                                                                                                                  
-This program was created for OULTON COLLEGE for learning purposes                                                                
-This program was developed using variety of resources, including python course from SMC program, programming tutorials, example  
-code from websites such as github, GeeksforGeeks, Stack overlow as well as AI-assisted tools.                                                                                                   
-This code has been adapted, modified to fit the requirements of this application.                                                
 
+This project is developed for learning and educational purposes only
 
-
-This project is a Python-based automated network scanner that integrates with Nmap. 
+This project is a Python-based automated network scanner that integrates with Nmap and with GUI
 The program scans a home network, including potential IoT devices, to identify connected 
 devices and their open ports. It flags preconfigured high-risk ports and provides a brief 
 discussion of the associated security risks, helping users understand potential vulnerabilities. 
@@ -17,15 +11,24 @@ The project is simple and user-friendly, making it suitable for non-technical ho
 and aims to educate users about security risks within their home network.
 
 
-
 REQUIREMENTS
 The following libraries, components and application need to install:
 - Install nmap from nmap.org
-- Install libraries using pip:
+
+Install libraries using pip:
 1. Python-nmap
 2. Psutil - to get system and hardware information such as network activity
 3. Apscheduler - for scheduler feature
-3. Plyer - for desktop notification 
+3. Plyer - for desktop notification
+
+
+FEATURES
+1. User Authentication
+2. Nmap Integration
+3. Scan report generation
+4. Preconfigure High Risk Port Detection
+5. Desktop Notification
+6. Scheduled Scanning
 
 
 OUT-OF-SCOPE
