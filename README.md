@@ -1,12 +1,12 @@
-# =================================================================================================================================#
-# Copyright © 2026, Gwyn Villegas                                                                                                  #
-# System Management and Cybersecurity                                                                                              #
-#                                                                                                                                  #
-# This program was created for OULTON COLLEGE for learning purposes                                                                #
-# This program was developed using variety of resources, including python course from SMC program, programming tutorials, example  #
-# code from websites such as github, GeeksforGeeks, Stack overlow as well as AI-assisted tools.                                    #                                                                    
-# This code has been adapted, modified to fit the requirements of this application.                                                #
-# =================================================================================================================================#
+
+Copyright © 2026, Gwyn Villegas                                                                                                  
+System Management and Cybersecurity                                                                                              
+                                                                                                                                  
+This program was created for OULTON COLLEGE for learning purposes                                                                
+This program was developed using variety of resources, including python course from SMC program, programming tutorials, example  
+code from websites such as github, GeeksforGeeks, Stack overlow as well as AI-assisted tools.                                                                                                   
+This code has been adapted, modified to fit the requirements of this application.                                                
+
 
 
 This project is a Python-based automated network scanner that integrates with Nmap. 
