@@ -22,7 +22,6 @@ Install libraries using pip:
 1. Python-nmap
 2. Psutil - to get system and hardware information such as network activity
 3. Apscheduler - for scheduler feature
-3. Plyer - for desktop notification
 
 
 FEATURES
