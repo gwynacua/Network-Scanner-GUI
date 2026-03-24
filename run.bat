@@ -1,1 +1,0 @@
-python.exe Source/app_main.py
