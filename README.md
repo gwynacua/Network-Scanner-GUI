@@ -34,8 +34,7 @@ FEATURES
 
 OUT-OF-SCOPE
 - Does not support automatic blocking or closing ports – Display only preconfigured potential high-risk port.
-- Does not support large enterprise network – Designed for SOHO network 
-- Does not support multiple user creation – Only support single account
+- Does not support large enterprise network – Designed for home network 
 - Exploiting devices or advanced vulnerability detection – Focus only on open ports
 - Device Identification – program cannot determine the exact type or brand of devices from there IP or Mac Address.
 
