@@ -30,7 +30,6 @@ FEATURES
 2. Nmap Integration
 3. Scan report generation
 4. Preconfigure High Risk Port Detection
-5. Desktop Notification
 6. Scheduled Scanning
 
 
